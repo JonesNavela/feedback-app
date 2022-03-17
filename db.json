@@ -16,12 +16,9 @@
       "id": 3
     },
     {
-      "campground[title]": "AT ALL TIMES!",
-      "campground[price]": "-2",
+      "text": "This is a test feedback item by Jones, added through the front end.",
+      "rating": 10,
       "id": 4
-    },
-    {
-      "id": 5
     }
   ]
 }
